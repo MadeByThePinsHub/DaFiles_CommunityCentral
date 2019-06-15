@@ -12,7 +12,9 @@
 
 ## Contribue
 
-* [Rules and Help](contribute/rules/README.md)
-  * [How To Contribute](contribute/rules/how-to-contribute.md)
-  * [The Basics](contribute/rules/basics.md)
+* [Help Center](contribute/help/README.md)
+  * [External Help Center](https://mpsupporteam.zendesk.com/hc/en-us)
+  * [Contributing on GitHub](contribute/help/github/README.md)
+    * [Markdown Help in GitHub](contribute/help/github/markdown-help-github.md)
+  * [Contribution Rules](contribute/help/rules.md)
 

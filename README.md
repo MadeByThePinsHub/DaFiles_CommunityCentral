@@ -24,7 +24,7 @@ To get started in exploring the pages, select an page from [Table of Contents](h
 {% tab title="Contribute" %}
 If you want to contribute, click here to [get an invite for contributors from the team or for new admins](https://t.me/MPTeamPH). And, if you want to join us, [let us know](https://t.me/MPTeamApplications_Bot) and we'll add you soon to the team.
 
-There's another way to contribute here: editing it on GitHub by contributing to our public repo on GitHub. See the [basic rules here](contribute/rules/basics.md) before you proceed.
+There's another way to contribute here: editing it on GitHub by contributing to our public repo on GitHub. See the [basic rules here](contribute/help/rules.md) before you proceed.
 {% endtab %}
 {% endtabs %}
 

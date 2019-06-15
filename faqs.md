@@ -8,6 +8,8 @@ An resource hub where we place everything about anything from fandoms to zebras 
 
 ### Can I localize it for my own language?
 
+Surely, yes! Create your own, then integrate with an GitHub repo you made, just like this one, so we can review and add it to our repo as an branch. Please [inform us at Telegram first](https://t.me/joinchat/Kg1fIBTLOiGA4FyaI6zT5g) so we can attribute your localized versions of this space.
+
 ## Copyright, Free Licenses and Public Domain
 
 ### Is this site had references where I can find sources?
