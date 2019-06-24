@@ -10,7 +10,7 @@
 
 * [My Hero Academia](fandoms/my-hero-academia.md)
 
-## Contribue
+## Contribue <a id="contribute"></a>
 
 * [Help Center](contribute/help/README.md)
   * [External Help Center](https://mpsupporteam.zendesk.com/hc/en-us)

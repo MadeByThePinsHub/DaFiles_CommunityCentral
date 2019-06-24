@@ -24,3 +24,7 @@ Simply say, people scan "raw" copies of manga from Japan, translate them and dis
 
 When you visit unofficial sources, please pay attention to any of the errors do the unofficial distributors made in their scanlations.
 
+### How can I be sure that work is licensed under copyright?
+
+We didn't know what license does that work were used here. The faster way to know it is visit our [References Audit Log](references.md#references-audit-log) or [Image Audit Log](references.md#image-audit-log) page and check wherever that is licensed under copyright.
+

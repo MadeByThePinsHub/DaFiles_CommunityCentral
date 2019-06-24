@@ -13,6 +13,14 @@ description: The list of changes happened at this space.
 Time and dates in this page and are in Philippine Standard Time, and same time zone when we push updates. Sorry for that!
 {% endhint %}
 
+## 1.0.4 - 2019-06-24
+
+Partial updates in [References and Copyright Information](references.md) page and some fixes in other pages.
+
+## 1.0.0-tl - 2019-06-16
+
+The [Filipino translation](https://mpteamph.gitbook.io/files/v/filipino/) for this GitBook space has been released. Currently, the Filipino translation is under construction and needed more human help.
+
 ## 1.0.3 - 2019-06-15
 
 ### What's New?
