@@ -6,12 +6,19 @@ description: The list of changes happened at this space.
 
 {% hint style="warning" %}
 * The content of this GitBook may update from time to time without prior notice, unless you [follow this on our GitHub repo](https://github.com/malaspinsphdev/DaFiles_CommunityCentral).
-* Any changes made by an user at GitHub on a branch outside the **master** branch for English version will be reviewed and will be imported to the main branch manually by the repo staffs.
+* Any changes made by an user at GitHub on a branch outside the **english** branch for English version will be reviewed and will be imported to the main branch manually by the repo staffs.
 {% endhint %}
 
 {% hint style="info" %}
 Time and dates in this page and are in Philippine Standard Time, and same time zone when we push updates. Sorry for that!
 {% endhint %}
+
+## 1.1.0 - 2019-07-01
+
+### Updated/Bug Fixes
+
+* Made some edits on [Contributing on GitHub](contribute/help/github/) and [Markdown Help](contribute/help/github/markdown-help-github.md).
+* Updated warning note for outdated browsers on [main page.](./)
 
 ## 1.0.4 - 2019-06-24
 
@@ -29,6 +36,10 @@ Our Zendesk Help Center had been launched! The URL, [https://mpsupporteam.zendes
 
 {% hint style="danger" %}
 Just a quick note: our Zendesk Help Center is under construction right now, so visit at your own risk.
+{% endhint %}
+
+{% hint style="warning" %}
+As of June 29, 2019, we'll temporary stop receiving support tickets and all future visits to our Help Center is currently closed. We
 {% endhint %}
 
 ### Added

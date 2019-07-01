@@ -9,7 +9,7 @@ description: 'Welcome to the Da Files! Here we place FAQs, files and everything 
 Move around the tabs below to get started browsing at this GitBook space. We'll convert this one into usual ones to make it compatible with older browsers. 
 
 {% hint style="warning" %}
-Make sure your browser is up-to-date to use interactive features at this GitBook. Visit [updatemybrowser.org](https://updatemybrowser.org/) and if you need an update, do it.
+Is your browser up-to-date? We hope you're updated with new features, fixes and also keeping you safe online and also offline. If not yet, we can help you. Visit [updatemybrowser.com](https://updatemybrowser.org/) and update if you really missed updates.
 {% endhint %}
 
 {% tabs %}
