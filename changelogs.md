@@ -13,7 +13,23 @@ description: The list of changes happened at this space.
 Time and dates in this page and are in Philippine Standard Time, and same time zone when we push updates. Sorry for that!
 {% endhint %}
 
-## 1.1.0 - 2019-07-01
+## 1.2 - 2019-07-08
+
+{% hint style="success" %}
+Another major release just pushed into GitBook \(and of course, GitHub\).
+{% endhint %}
+
+The [**Introduction to Da Files**](https://madebythepinsteam.gitbook.io/files/v/introduction) branch has been deployed and now the main and default branch across both GitHub and GitBook. Plus some renames to the branches, so here's the rundown of these:
+
+| Release tag | Meaning | Example |
+| :--- | :--- | :--- |
+| `official-` | This language pack is either the official language used in this space or one of the official translations from the community. | `official-english` |
+| `unofficial-` | This one is either the unofficial ones from the community and hasn't yet reviewed and approved by the repo code reviewers and org admins. | undefined |
+| `rc-` | This one is marked as Release Candidate after it got approved from the public beta build testing and waiting for the final approval from repo code reviewers and org admins. | undefined |
+| `beta-` | This one | undefined |
+| `alpha-` | This one is under development and contains so many bugs that needs more community input. | `alpha-filipino` |
+
+## 1.1 - 2019-07-01
 
 ### Updated/Bug Fixes
 
@@ -87,7 +103,7 @@ This GitBook space at this update are worked behind the scenes. Sorry for that!
 
 * Removed **community-central-da-files** release and made **master** default branch for both **GitBook and GitHub** for English language version.
 
-## 1.0.0 - 2019-06-02
+## 1.0 - 2019-06-02
 
 Whooo! This GitBook space was just created. Here's some recap for that:
 
