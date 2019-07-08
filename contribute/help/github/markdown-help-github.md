@@ -4,44 +4,25 @@ description: An developers' API manual-like Markdown Help for GitHub contributor
 
 # Markdown Help in GitHub
 
-{% hint style="info" %}
-This page is under construction, so every GitHub contribution counts.
-{% endhint %}
+## Introduction
 
-If you like contributing on GitHub and want to know how to edit the Markdown source
+If you like contributing on GitHub and want to know
 
 ## The Basics
 
 We'll start exploring Markdown with these basics.
 
-### Quick Look at Source Code
-
 {% code-tabs %}
 {% code-tabs-item title="basics.txt" %}
 ```text
-To reset your **Telegram account**, go to [my.telegram.com](https://my.telegram.com/delete]
-then enter your phone number in international format.
+To reset your **Telegram account**, go to [my.telegram.com](https://
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-| Element | Type | Example \(source\) | Result |
-| :--- | :--- | :--- | :--- |
-| `**bold**` | Markdown |  |  |
-
 ## Tabs
 
-{% tabs %}
-{% tab title="First Tab" %}
-some content here
-{% endtab %}
-
-{% tab title="Second Tab" %}
-some content here again
-{% endtab %}
-{% endtabs %}
-
-### A quick look at source code
+### Demostration
 
 {% code-tabs %}
 {% code-tabs-item title="tabs-examples.txt" %}
@@ -49,10 +30,8 @@ some content here again
 /// Test implention of
 
 {% tabs %}
-{% tab title="Sample 1" %}
+{% tab title="example" %}
 some content here
-{% tab title="Sample 2" %}
-some content here again
 {% endtab %}
 {% endtabs %}
 ```
@@ -88,10 +67,10 @@ There's another way to contribute here: editing it on GitHub by contributing to 
 
 ### Guide Table
 
-| Element | Type | Required | Description | Examples |
+| Field/Code | Type | Required | Description | Examples |
 | :--- | :--- | :--- | :--- | :--- |
 | {% tabs %} | Attachment | Yes | Used to add tabs | - |
-| {% tab title="" %} | Tab Title | Yes | Used to create separate tabs | {% tab title="Contribute" %} |
+| {% tab title="" %} | Tab Title | Yes | Used to create sperate tabs | { |
 
 
 

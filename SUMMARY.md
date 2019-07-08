@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Quick Start](README.md)
-* [FAQs](faqs.md)
+* [Mabilis na Pagsisimula](README.md)
+* [Mga Madalas Itanong](faqs.md)
 * [Changelogs](changelogs.md)
 * [References and Copyright Information](references.md)
 

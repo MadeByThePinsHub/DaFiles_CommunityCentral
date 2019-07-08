@@ -1,19 +1,25 @@
 ---
-description: 'Welcome to the Da Files! Here we place FAQs, files and everything stuff.'
+description: >-
+  Maligayang Pagdating sa Da Files! Narito inilalagay namin ang mga FAQ, mga
+  file at lahat ng bagay.
 ---
 
-# Quick Start
+# Mabilis na Pagsisimula
 
-## Introduction
 
-Move around the tabs below to get started browsing at this GitBook space. We'll convert this one into usual ones to make it compatible with older browsers. 
+
+Ang Filipino translation ng Community Central: Da Files ay kasalukuyang nasa ilalim ng konstruksiyon. Maaari kang magbigay ng kontribusyon sa pagpapabuti ng pagsasalin na ito sa GitHub sa [https://github.com/malaspinsphdev/DaFiles\_CommunityCentral/filipino](https://github.com/malaspinsphdev/DaFiles_CommunityCentral/blob/filipino/README.md). Maraming salamat!
+
+## Panimula
+
+Ilipat sa paligid ng mga tab sa ibaba upang makapagsimula mag-browse sa puwang ng GitBook na ito. I-convert namin ang isang ito sa mga karaniwang upang gawin itong katugma sa mas lumang mga browser.
 
 {% hint style="warning" %}
-Is your browser up-to-date? We hope you're updated with new features, fixes and also keeping you safe online and also offline. If not yet, we can help you. Visit [updatemybrowser.com](https://updatemybrowser.org/) and update if you really missed updates.
+Tiyaking napapanahon ang iyong browser upang magamit ang mga interactive na tampok sa GitBook na ito. Visit [updatemybrowser.org](https://updatemybrowser.org/) and if you need an update, do it.
 {% endhint %}
 
 {% tabs %}
-{% tab title="Welcome Aboard!" %}
+{% tab title="Maligayang Pagsakay!" %}
 Welcome to the Community Central Da Files! This is where we place everything here from fandoms to podcasts and everything in between.
 
 To get started in exploring the pages, select an page from [Table of Contents](https://docs.gitbook.com/content-editing/pages-structure#types-of-entries) on the left.
@@ -21,7 +27,7 @@ To get started in exploring the pages, select an page from [Table of Contents](h
 ![This is how ToC looks like on preview page.](.gitbook/assets/image.png)
 {% endtab %}
 
-{% tab title="Contribute" %}
+{% tab title="Mag-ambag" %}
 If you want to contribute, click here to [get an invite for contributors from the team or for new admins](https://t.me/MPTeamPH). And, if you want to join us, [let us know](https://t.me/MPTeamApplications_Bot) and we'll add you soon to the team.
 
 There's another way to contribute here: editing it on GitHub by contributing to our public repo on GitHub. See the [basic rules here](contribute/help/rules.md) before you proceed.
@@ -30,11 +36,11 @@ There's another way to contribute here: editing it on GitHub by contributing to 
 
 ## FAQs
 
-You have questions that we can answer in our FAQs page. Click the link button below to read them. We'll continuously update the FAQs as more questions we've been received in Telegram and on GitHub.
+Mayroon kang mga tanong na maaari naming sagutin sa aming pahina ng FAQ. I-click ang pindutan ng link sa ibaba upang mabasa ang mga ito. Patuloy naming i-update ang Mga Madalas Itanong bilang higit pang mga tanong na natanggap namin sa Telegram at sa GitHub.
 
 {% page-ref page="faqs.md" %}
 
-### Your question still unanswered?
+### Hindi pa nasagot ang iyong tanong?
 
 Don't fret. The Pins' team built an Telegram chat for you about this project and other open-source projects we've been working on.
 

@@ -1,36 +1,30 @@
 ---
-description: The list of changes happened at this space.
+description: Ang listahan ng mga pagbabago ay nangyari sa puwang na ito.
 ---
 
 # Changelogs
 
 {% hint style="warning" %}
 * The content of this GitBook may update from time to time without prior notice, unless you [follow this on our GitHub repo](https://github.com/malaspinsphdev/DaFiles_CommunityCentral).
-* Any changes made by an user at GitHub on a branch outside the **english** branch for English version will be reviewed and will be imported to the main branch manually by the repo staffs.
+* Ang anumang mga pagbabago na ginawa ng isang gumagamit sa GitHub sa isang sangay sa labas ng **filipino** branch para sa Tagalog na bersyon ay susuriin at ma-import sa pangunahing sangay nang manu-mano ng mga tauhan ng repo.
+* Hindi madalas nai-update and Tagalog na bersyon ng GitBook space na ito. Maaring dalawin ang [_English version_ ng pahina na ito](https://madebythepinsteam.gitbook.com/files/v/english/changelogs) para makita ang pinakasariwang pagbabago.
 {% endhint %}
 
 {% hint style="info" %}
-Time and dates in this page and are in Philippine Standard Time, and same time zone when we push updates. Sorry for that!
+Oras at petsa sa pahinang ito at nasa Philippine Standard Time, at parehong time zone kapag tinutulak namin ang mga update. Paumanhin.
 {% endhint %}
 
-## 1.1.0 - 2019-07-01
+## 1.0.1-tl - 2019.06-16
 
-### Updated/Bug Fixes
-
-* Made some edits on [Contributing on GitHub](contribute/help/github/) and [Markdown Help](contribute/help/github/markdown-help-github.md).
-* Updated warning note for outdated browsers on [main page.](./)
-
-## 1.0.4 - 2019-06-24
-
-Partial updates in [References and Copyright Information](references.md) page and some fixes in other pages.
+### Pag-aayos ng Bug
 
 ## 1.0.0-tl - 2019-06-16
 
-The [Filipino translation](https://mpteamph.gitbook.io/files/v/filipino/) for this GitBook space has been released. Currently, the Filipino translation is under construction and needed more human help.
+Ang pagsasalin ng Filipino para sa puwang ng GitBook na ito ay inilabas. Sa kasalukuyan, ang Filipino translation ay under construction at nangangailangan ng higit pang tulong ng tao.
 
 ## 1.0.3 - 2019-06-15
 
-### What's New?
+### Ano'ng Bago?
 
 Our Zendesk Help Center had been launched! The URL, [https://mpsupporteam.zendesk.com/hc/en-us](https://mpsupporteam.zendesk.com/hc/en-us), and our support emails, support@mpsupporteam.zendesk.com and hello@mpsupporteam.zendesk.com, are now live. Take a try to email us and we'll reply within days or weeks.
 
@@ -38,25 +32,22 @@ Our Zendesk Help Center had been launched! The URL, [https://mpsupporteam.zendes
 Just a quick note: our Zendesk Help Center is under construction right now, so visit at your own risk.
 {% endhint %}
 
-{% hint style="warning" %}
-As of June 29, 2019, we'll temporary stop receiving support tickets and all future visits to our Help Center is currently closed. We
-{% endhint %}
+### Nadagdag
 
-### Added
+The [Markdown Help Guide for GitHub contributors](contribute/help/github/markdown-help-github.md) has been released! We'll start add some basics for now. As this space is growing, we'll add more markdown-related cheat codes there. Still under construction as of now.
 
-* The [Markdown Help Guide for GitHub contributors](contribute/help/github/markdown-help-github.md) has been released! We'll start add some basics for now. As this space is growing, we'll add more markdown-related cheat codes there. Still under construction as of now.
+### Pag-aayos ng Bug
 
-### Bug Fixes
-
-* Some bugfixes that we can't explain here for now, but we'll tell you soon. Apologies!
+Some bugfixes that we can't explain here for now, but we'll tell you soon. Apologies!
 
 ## 1.0.2 - 2019-06-10
 
 > **UPDATED as of 2019-06-10 4:00**: We been fixed the version number as this might duplicate
 
-### Added
+### Nadagdag
 
-* Added [**FAQs**](faqs.md) ****page with some basic questions. We'll update it as more questions got asked in Telegram.
+Added [**FAQs**](faqs.md) ****page with some basic questions. We'll update it as more questions got asked in Telegram.
+
 * Updated [**Quick Start**](./) page with the [**FAQs**](./#faqs) section
 
 ### Other Goodies
